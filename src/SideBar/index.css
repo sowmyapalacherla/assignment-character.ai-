@@ -1,0 +1,100 @@
+.slidebar{
+    width: 20%;
+    height:100vh;
+    color:aliceblue;
+    
+    
+    
+}
+.create{
+    display: flex;
+    justify-content:start;
+    align-items: start;
+    padding-top: 20px;
+    height: 100%;
+    width:40px;
+    background-color: #333333;
+    color: aliceblue;
+}
+/* .side-container{
+    width:40px;
+    height: 100%;
+} */
+.arrow{
+    color: aliceblue;
+}
+.small-image{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+.names-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+.chat-container{
+    display: flex;
+    flex-direction: column;
+}
+.single-name-container{
+    display: flex;
+    flex-direction: row;
+}
+.small-name{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 12px;
+}
+.down-container{
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+}
+.username{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 12px;
+    
+}
+.try-ai{
+    width:220px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.creating{
+    width:220px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.discover{
+    font-size: 25px;
+}
+.logo-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 25px;
+}
+.creating-container{
+    
+    height: 40px;
+    width: 40px;
+    background-color:#333333;
+    margin-top: 15px;
+}

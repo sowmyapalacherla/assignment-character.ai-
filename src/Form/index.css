@@ -1,0 +1,62 @@
+.reg-container{
+    background-color: #333333;
+    min-height: 100vh;
+    padding: 20px;
+}
+.top-nav-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-link{
+    height: 25px;
+    width: 25px;
+    color: aliceblue;
+}
+.file-name{
+    font-style: 17px;
+    color: aliceblue;
+    margin-right: 30px;
+}
+.file-link{
+    height: 20px;
+    width: 20px;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.file-linkk{
+    height: 20px;
+    width: 20px;
+    color: aliceblue;
+    
+}
+.profile-link{
+    height: 40px;
+    width: 40px;
+    color: aliceblue;
+   
+    margin-bottom: 20px;
+}
+.label-ele{
+    color: aliceblue;
+    font-style: 18px;
+   
+}
+.input-box{
+    padding: 20px;
+    width: 60%;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+margin-bottom: 20px;
+}
+.character-btmn{
+    margin-left: auto;
+    background-color: gray;
+    color: white;
+    padding: 7px 10px ;
+    border-radius: 10px;
+    border: none;
+}
+
+
